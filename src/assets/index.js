@@ -41,6 +41,9 @@ import spotify from './projects/spotify.png'
 import trello from './projects/trello.png'
 import twitter from './projects/twitter.png'
 import weather from './projects/weather.png'
+import travelGo from './projects/travelGo.jpg'
+import searchJob from './projects/searchJob.jpg'
+import twitterNative from './projects/twitterNative.png'
 
 export {
   logo,
@@ -84,4 +87,7 @@ export {
   trello,
   twitter,
   weather,
+  travelGo,
+  searchJob,
+  twitterNative,
 };
